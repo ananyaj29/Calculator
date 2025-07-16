@@ -28,9 +28,4 @@ This is a basic calculator built using **HTML**, **CSS**, and **JavaScript**. It
 
 ---
 
-## 📂 How to Use
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/ananyaja29/simple-calculator.git
