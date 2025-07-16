@@ -25,13 +25,6 @@ This is a basic calculator built using **HTML**, **CSS**, and **JavaScript**. It
 - CSS3 (Flexbox + Grid)  
 - JavaScript (ES6)
 
----
-
-## 📸 Screenshot
-
-![Calculator Screenshot](screenshot.png)
-
-> Replace the above line with a real screenshot if available.
 
 ---
 
@@ -40,4 +33,4 @@ This is a basic calculator built using **HTML**, **CSS**, and **JavaScript**. It
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/simple-calculator.git
+git clone https://github.com/ananyaja29/simple-calculator.git
